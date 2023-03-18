@@ -19,4 +19,4 @@ Granatak is an engaging and interactive game designed to improve daily planning 
 - Information about the project's license
 
 ## Contact
-- Get in touch with the project team: yesquest@solveler.com
+- Get in touch with the project team: yesquest@solveler.com, granatak@solveler.com
