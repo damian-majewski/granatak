@@ -20,3 +20,9 @@ Granatak is an engaging and interactive game designed to improve daily planning 
 
 ## Contact
 - Get in touch with the project team: yesquest@solveler.com, granatak@solveler.com
+
+## IT Company Behind the Ecosystem
+
+Solveler (https://solveler.com) is the driving force behind the Granatak ecosystem. We are a modern IT company specializing in integrating the latest technologies, managing cloud infrastructure, and providing comprehensive training programs for IT teams.
+
+Feel free to contact us: office@solveler.com
